@@ -1,5 +1,3 @@
-console.log('asd');
-
 window.onscroll = function() {
   console.log('window.scrollY', window.scrollY);
   if (window.scrollY >= 190) {

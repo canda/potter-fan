@@ -1,0 +1,28 @@
+.content {
+  background: #003c69;
+  margin: 0 40px;
+  margin-top: calc(100vh - 228px - 160px);
+  padding: 40px 0;
+  border-radius: 5px;
+}
+
+.harry-image {
+  width: 800px;
+  max-width: 90%;
+}
+
+.texto_index {
+  font-family: inherit;
+  width: 800px;
+  max-width: 90%;
+  text-align: left;
+  margin: auto;
+  position: relative;
+  z-index: 0;
+  color: white;
+  background-color: rgba(255, 255, 255, 0.3);
+}
+
+.texto_index p {
+  padding: 10px;
+}

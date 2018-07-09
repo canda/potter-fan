@@ -1,9 +1,5 @@
 .content {
-  background: #003c69;
-  margin: 0 40px;
   margin-top: calc(100vh - 228px - 160px);
-  padding: 40px 0;
-  border-radius: 5px;
 }
 
 .harry-image {

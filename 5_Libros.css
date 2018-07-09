@@ -1,0 +1,18 @@
+p {
+  margin: 0;
+}
+
+.libros {
+  display: flex;
+  padding: 10px;
+}
+
+.columna {
+  flex-grow: 1;
+}
+
+.libro {
+  display: flex;
+  margin: 10px;
+}
+

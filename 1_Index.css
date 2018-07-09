@@ -21,6 +21,7 @@
   z-index: 0;
   color: white;
   background-color: rgba(255, 255, 255, 0.3);
+  border-radius: 5px;
 }
 
 .texto_index p {

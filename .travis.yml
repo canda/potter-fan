@@ -5,4 +5,4 @@ cache:
   directories:
   - .npm
 script:
-  - npx surge --project ./ --domain https://potterfan.cf
+  - npx surge --project ./public --domain https://potterfan.cf
